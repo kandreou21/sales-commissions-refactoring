@@ -7,7 +7,6 @@ public class Address {
 	private int streetNumber;
 	private int phoneNumber;
 
-
 	public String getCity() {
 		return city;
 	}
@@ -47,6 +46,4 @@ public class Address {
 	public void setPhoneNumber(int phoneNumber) {
 		this.phoneNumber = phoneNumber;
 	}
-	
 }
-
